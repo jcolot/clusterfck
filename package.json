@@ -21,5 +21,5 @@
       "connect": "*",
       "browserify": "*"
    },
-   "main": "./src/clustering"
+   "main": "./src/index.js"
 }
