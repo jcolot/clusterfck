@@ -169,5 +169,4 @@ const hcluster = (
 };
 
 
-export HierachicalClustering;
-export hcluster;
+export { HierachicalClustering, hcluster };
