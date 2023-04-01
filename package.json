@@ -8,18 +8,12 @@
       "url": "http://github.com/jcolot/clustering.git"
    },
    "directories": {
-      "lib": "./lib"
+      "lib": "./src"
    },
    "dependencies" : {
 
    },
    "devDependencies": {
-      "uglify-js" : "*",
-      "underscore": "*",
-      "nomnom" : "*",
-      "cradle" : "*",
-      "connect": "*",
-      "browserify": "*"
    },
-   "main": "./src/index.js"
+   "main": "./index.js"
 }
